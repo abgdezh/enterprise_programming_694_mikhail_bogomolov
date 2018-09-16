@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14   CMakeFiles/quadratic_equation_solver.dir/Tests.cpp.o  -o quadratic_equation_solver googletest/googlemock/gtest/libgtest.a googletest/googlemock/gtest/libgtest_main.a googletest/googlemock/gtest/libgtest.a -pthread 
